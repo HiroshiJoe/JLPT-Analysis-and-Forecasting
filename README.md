@@ -23,9 +23,9 @@ The data for this analysis has been gathered from:
 ## Repository Contents
 
 - **`1984_2023_jlpt_data.csv`**: Comprehensive dataset for JLPT from 1984 to 2023.
-- **`2023_1_5_examinees_data.csv`**: Data on examinees published on January 5, 2023.
-- **`2023_1_5_avg_and_std_scores.csv`**: Average and standard deviation scores published on January 5, 2023.
-- **`2023_1_5_analytics_report.pdf`**: Analytics report from the JLPT website published on January 5, 2023.
+- **`2023_examinees_data.csv`**: Data on examinees published (2023).
+- **`2023_avg_and_std_scores.csv`**: Average and standard deviation scores published (2023).
+- **`2023_analytics_report.pdf`**: Analytics report from the JLPT website published (2023).
 - **`JLPT_Analysis_and_Forecasting.ipynb`**: Jupyter notebook for detailed analysis and forecasting specific to JLPT data.
 
 ## Key Results
