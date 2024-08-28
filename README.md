@@ -28,8 +28,6 @@ The data for this analysis has been gathered from:
 - **`2023_1_5_analytics_report.pdf`**: Analytics report from the JLPT website published on January 5, 2023.
 - **`JLPT Data Analysis and Forecasting.png`**: Visualization of the JLPT data analysis and forecasting results.
 - **`JLPT_Analysis_and_Forecasting.ipynb`**: Jupyter notebook for detailed analysis and forecasting specific to JLPT data.
-- **`LICENSE`**: License information for the repository.
-- **`README.md`**: This file, providing an overview of the repository and instructions.
 
 ## Key Results
 
