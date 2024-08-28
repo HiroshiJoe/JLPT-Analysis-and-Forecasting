@@ -22,9 +22,13 @@ The data for this analysis has been gathered from:
 
 ## Repository Contents
 
-- **`JLPT_EDA_ML.ipynb`**: The main Jupyter notebook containing the Exploratory Data Analysis (EDA) and Machine Learning (ML) models used to analyze and forecast JLPT data.
-- **`data/`**: Directory containing raw data files used for analysis.
-- **`results/`**: Directory for storing results, plots, and forecast outputs.
+- **`1984_2023_jlpt_data.csv`**: Comprehensive dataset of JLPT scores from 1984 to 2023.
+- **`2023_1_5_examinees_data.csv`**: Data on examinees published on January 5, 2023.
+- **`2023_1_5_avg_and_std_scores.csv`**: Average and standard deviation scores published on January 5, 2023.
+- **`2023_1_5_analytics_report.pdf`**: Analytics report from the JLPT website published on January 5, 2023.
+- **`JLPT Data Analysis and Forecasting.png`**: Visualization of the JLPT data analysis and forecasting results.
+- **`JLPT_Analysis_and_Forecasting.ipynb`**: Jupyter notebook for detailed analysis and forecasting specific to JLPT data.
+- **`LICENSE`**: License information for the repository.
 - **`README.md`**: This file, providing an overview of the repository and instructions.
 
 ## Key Results
