@@ -1,3 +1,5 @@
+![JLPT Data Analysis and Forecasting](JLPT Data Analysis and Forecasting.png)
+
 # JLPT Data Analysis and Forecasting
 
 ## Overview
