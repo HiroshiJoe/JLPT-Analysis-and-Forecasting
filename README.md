@@ -1,5 +1,3 @@
-![JLPT Data Analysis and Forecasting](https://github.com/HiroshiJoe/JLPT-Analysis-and-Forecasting/blob/main/JLPT%20Data%20Analysis%20and%20Forecasting.png)
-
 # JLPT Data Analysis and Forecasting
 
 ## Overview
